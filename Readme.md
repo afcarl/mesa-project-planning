@@ -6,5 +6,5 @@ The contents of this repo should not be considered of any value unless you contr
 
 ### Directory descriptions
 
-* referencecode are pre-mesa models, which are used as a reference for how a model might look in Python.
-* dummycode are scratch .py files that proposed what a implementation of Mesa might look like.
+* **referencecode/** are pre-mesa models, which are used as a reference for how a model might look in Python.
+* **dummycode/** are scratch .py files that proposed what a implementation of Mesa might look like.
